@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Dr. John Smith",
+      "role": "Postdoctoral Researcher",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "research": "Climate Change Modeling",
+      "email": "jsmith@chapman.edu"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "role": "PhD Student",
+      "image": "https://randomuser.me/api/portraits/women/1.jpg",
+      "research": "Remote Sensing",
+      "email": "sjohnson@chapman.edu"
+    },
+    {
+      "id": 3,
+      "name": "Michael Chen",
+      "role": "Graduate Researcher",
+      "image": "https://randomuser.me/api/portraits/men/2.jpg",
+      "research": "Machine Learning Applications",
+      "email": "mchen@chapman.edu"
+    }
+  ]
+}
