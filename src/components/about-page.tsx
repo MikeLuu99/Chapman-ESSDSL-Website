@@ -3,18 +3,19 @@
 import { Navbar } from './navbar'
 import Image from 'next/image'
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { LinkedinIcon, TwitterIcon, GithubIcon } from 'lucide-react'
+import { LinkedinIcon, TwitterIcon, GithubIcon, BookOpenIcon } from 'lucide-react'
 
 // This would typically be imported from a JSON file
 const labMembers = {
-  "Lab President": [
+  "Director": [
     {
       name: "Dr. Hesham El-Askary",
       image: "https://pub-c851c075f4cb465ab1ad2234f44959b2.r2.dev/hesham_elaskary.png",
       degree: "Ph.D.",
       company: "Professor, Computational and Data Science Graduate Programs, Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/heshamelaskary"
+        linkedin: "https://www.linkedin.com/in/hesham-el-askary-04b2a126/",
+        scholar: "https://scholar.google.com/citations?user=UkKJDL8AAAAJ&hl=en"
       }
     }
   ],
@@ -25,7 +26,7 @@ const labMembers = {
       degree: "Ph.D.",
       company: "Senior Research Associate, Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/wenzhaoli"
+        linkedin: "https://www.linkedin.com/in/wenzhao-li-8221b565/"
       }
     },
     {
@@ -34,7 +35,8 @@ const labMembers = {
       degree: "Ph.D.",
       company: "Postdoctoral Fellow & Lecturer in Mathematics, Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/rejoicethomas"
+        linkedin: "https://www.linkedin.com/in/rejoice-thomas-04403516b/",
+        scholar: "https://scholar.google.com/citations?user=MFdcaJMAAAAJ&hl=en"
       }
     }
   ],
@@ -45,34 +47,8 @@ const labMembers = {
       degree: "Ph.D. Candidate",
       company: "Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/nikolaygriseltodorov"
-      }
-    },
-    {
-      name: "Surendra Maharjan",
-      image: "https://pub-c851c075f4cb465ab1ad2234f44959b2.r2.dev/surrendra_maharjan.jpg",
-      degree: "Ph.D. Student",
-      company: "Chapman University",
-      social: {
-        linkedin: "https://linkedin.com/in/surendramaharjan"
-      }
-    },
-    {
-      name: "Susan Mikhail",
-      image: "https://pub-c851c075f4cb465ab1ad2234f44959b2.r2.dev/susan_mikhail.png",
-      degree: "Ph.D. Student",
-      company: "Chapman University",
-      social: {
-        linkedin: "https://linkedin.com/in/susanmikhail"
-      }
-    },
-    {
-      name: "Hesham Morgan",
-      image: "https://pub-c851c075f4cb465ab1ad2234f44959b2.r2.dev/hesham_morgan.png",
-      degree: "Ph.D. Student",
-      company: "Chapman University",
-      social: {
-        linkedin: "https://linkedin.com/in/heshammorgan"
+        linkedin: "https://www.linkedin.com/in/ngtodorov/",
+        scholar: "https://www.researchgate.net/profile/Niko-Grisel-Todorov"
       }
     },
     {
@@ -81,7 +57,37 @@ const labMembers = {
       degree: "Ph.D. Student",
       company: "Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/shahryarfazli"
+        linkedin: "https://www.linkedin.com/in/shahryar-fazli-094b17111/",
+        scholar: "https://scholar.google.com/citations?user=PrqvVYEAAAAJ&hl=en"
+      }
+    },
+    {
+      name: "Susan Mikhail",
+      image: "https://pub-c851c075f4cb465ab1ad2234f44959b2.r2.dev/susan_mikhail.png",
+      degree: "Ph.D. Student",
+      company: "Chapman University",
+      social: {
+        linkedin: "https://www.linkedin.com/in/susan-mikhail-157623204/"
+      }
+    },
+    {
+      name: "Surendra Maharjan",
+      image: "https://pub-c851c075f4cb465ab1ad2234f44959b2.r2.dev/surrendra_maharjan.jpg",
+      degree: "Ph.D. Student",
+      company: "Chapman University",
+      social: {
+        linkedin: "https://www.linkedin.com/in/surendra-maharjan-a0271326b/",
+        scholar: "https://scholar.google.com/citations?user=DdYOY2kAAAAJ&hl=en"
+      }
+    },
+    {
+      name: "Hesham Morgan",
+      image: "https://pub-c851c075f4cb465ab1ad2234f44959b2.r2.dev/hesham_morgan.png",
+      degree: "Ph.D. Student",
+      company: "Chapman University",
+      social: {
+        linkedin: "https://www.linkedin.com/in/hesham-morgan/",
+        scholar: "https://scholar.google.com/citations?user=3-1o3tIAAAAJ&hl=ar"
       }
     }
   ],
@@ -92,7 +98,6 @@ const labMembers = {
       degree: "B.S. in Electrical Engineering (In Progress)",
       company: "Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/eliduran"
       }
     },
     {
@@ -101,7 +106,6 @@ const labMembers = {
       degree: "B.S. in Computer Science (In Progress)",
       company: "Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/brandontran"
       }
     },
     {
@@ -110,7 +114,7 @@ const labMembers = {
       degree: "B.S. in Computer Science (In Progress)",
       company: "Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/mikeluu"
+        linkedin: "https://www.linkedin.com/in/mike-luu-117147253/"
       }
     }
   ],
@@ -121,7 +125,7 @@ const labMembers = {
       degree: "Ph.D.",
       company: "2024 Graduate, Chapman University",
       social: {
-        linkedin: "https://linkedin.com/in/sachiperera"
+        linkedin: "https://www.linkedin.com/in/sachi-perera-07aa2667/"
       }
     },
     {
@@ -130,7 +134,7 @@ const labMembers = {
       degree: "Ph.D.",
       company: "Data Scientist, Jet Propulsion Laboratory, California Institute of Technology",
       social: {
-        linkedin: "https://linkedin.com/in/nicholaslahaye"
+        linkedin: "https://www.linkedin.com/in/nicholas-lahaye-500a9b22/"
       }
     },
     {
@@ -139,7 +143,7 @@ const labMembers = {
       degree: "Ph.D.",
       company: "Principal Software Engineer, Anduril Industries",
       social: {
-        linkedin: "https://linkedin.com/in/justinle"
+        linkedin: "https://www.linkedin.com/in/lejustin/"
       }
     },
     {
@@ -148,7 +152,7 @@ const labMembers = {
       degree: "Ph.D.",
       company: "Head of FinTech Science and Engineering, Amazon",
       social: {
-        linkedin: "https://linkedin.com/in/justingapper"
+        linkedin: "https://www.linkedin.com/in/justingapper/"
       }
     },
     {
@@ -157,7 +161,7 @@ const labMembers = {
       degree: "Ph.D.",
       company: "Professor, Mathematics and Computer Science, Fullerton College",
       social: {
-        linkedin: "https://linkedin.com/in/lucianorodriguez"
+        linkedin: "https://www.linkedin.com/in/luciano-rodriguez-80949756/"
       }
     }
   ]
@@ -197,6 +201,11 @@ function MemberCard({ member }) {
           {member.social.github && (
             <a href={member.social.github} target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
               <GithubIcon size={20} />
+            </a>
+          )}
+          {member.social.scholar && (
+            <a href={member.social.scholar} target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary mt-0.5">
+              <BookOpenIcon size={20} />
             </a>
           )}
         </div>

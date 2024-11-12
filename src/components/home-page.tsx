@@ -19,7 +19,7 @@ function GlobeDemo() {
 		<div className="relative flex size-full w-full h-full items-center justify-center px-40 py-64 md:pb-96 mx-auto overflow-visible my-12">
 			<div className="z-20 -mt-72 text-center">
 				<span className="pointer-events-none whitespace-pre-wrap bg-gradient-to-b from-gray-700 to-gray-500 bg-clip-text text-7xl font-semibold leading-none text-transparent dark:from-white dark:to-slate-900/10">
-					Earth System Science and Data Solutions Lab
+					Earth Systems Science and Data Solutions Lab
 				</span>
 			</div>
 			<Globe className="top-72 scale-150 mt-12" />

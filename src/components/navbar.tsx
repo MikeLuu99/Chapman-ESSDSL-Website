@@ -1,9 +1,8 @@
 "use client";
-
 import Link from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import CULogo from "../../public/cu-logo.svg";
+import CULogo from "../../public/cu-logo-small.svg";
 import { useEffect, useState } from "react";
 
 function useScrollDirection() {
@@ -50,7 +49,7 @@ export function Navbar() {
                 <Image
                   src={CULogo}
                   alt="Chapman University Logo"
-                  width={250}
+                  width={75}
                   height={40}
                 />
               </Link>
