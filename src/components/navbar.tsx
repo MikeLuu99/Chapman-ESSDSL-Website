@@ -44,12 +44,12 @@ export function Navbar() {
         <div className="container mx-auto px-4">
           <div className="flex h-24 items-center justify-between">
             {/* Left section with logos */}
-            <div className="flex items-center space-x-6">
+            <div className="flex items-center space-x-6 gap-4">
               <Link href="https://www.chapman.edu" target="_blank">
                 <Image
                   src={CULogo}
                   alt="Chapman University Logo"
-                  width={75}
+                  width={65}
                   height={40}
                 />
               </Link>
