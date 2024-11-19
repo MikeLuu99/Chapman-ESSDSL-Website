@@ -1,0 +1,3102 @@
+[
+    {
+        "title": "Enhanced lithological mapping in arid crystalline regions using explainable AI and multi-spectral remote sensing data",
+        "authors": [
+            "H Morgan",
+            "A Elgendy",
+            "A Said",
+            "M Hashem",
+            "W Li",
+            "S Maharjan",
+            "H El-Askary"
+        ],
+        "year": 2024,
+        "area": "Lithosphere",
+        "link": ""
+    },
+    {
+        "title": "A generalized machine learning model for long-term coral reef monitoring in the Red Sea",
+        "authors": [
+            "JJ Gapper",
+            "S Maharjan",
+            "W Li",
+            "E Linstead",
+            "SP Tiwari",
+            "MA Qurban",
+            "..."
+        ],
+        "year": 2024,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Seasonal Dynamics in Land Surface Temperature in Response to Land Use Land Cover Changes Using Google Earth Engine",
+        "authors": [
+            "L Feng",
+            "S Hussain",
+            "NG Pricope",
+            "S Arshad",
+            "A Tariq",
+            "L Feng",
+            "M Mubeen",
+            "..."
+        ],
+        "year": 2024,
+        "area": "Earth Surface and Interior",
+        "link": ""
+    },
+    {
+        "title": "Time series decomposition of land surface temperature for long-term trend forecasting and impact on nesting sea turtle habitats in the Arabian Gulf",
+        "authors": [
+            "S Perera",
+            "RH Maneja",
+            "M Allali",
+            "C Rakovski",
+            "E Linstead",
+            "D Struppa",
+            "..."
+        ],
+        "year": 2024,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Impact of Land use dynamics on the water yields in the Gorgan river basin",
+        "authors": [
+            "M Yaghoobi",
+            "A Fathi",
+            "S Fazli",
+            "W Li",
+            "E Haghshenas",
+            "VS Kuchak",
+            "..."
+        ],
+        "year": 2024,
+        "area": "Earth Surface and Interior",
+        "link": ""
+    },
+    {
+        "title": "Sunrise Strategies: Maximizing Solar Energy Yields AMIDST Environmental Variabilities in Egypt",
+        "authors": [
+            "L Nikolaos",
+            "K Panagiotis",
+            "H El-Askary",
+            "O Elbadawy"
+        ],
+        "year": 2024,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Enhancing Sustainable Development Goals Through Future Vapor Pressure Deficit Analysis In The Nile River Basin",
+        "authors": [
+            "S Maharjan",
+            "W Li",
+            "S Fazli",
+            "H Sewilam",
+            "H El-Askary"
+        ],
+        "year": 2024,
+        "area": "Weather and Atmospheric Dynamics",
+        "link": ""
+    },
+    {
+        "title": "Linkages of the 2022 Unprecedented Global Heatwave Events to Triple-Dip La Niña",
+        "authors": [
+            "S Perera",
+            "JB Fisher",
+            "M Allali",
+            "H El-Askary"
+        ],
+        "year": 2024,
+        "area": "Weather and Atmospheric Dynamics",
+        "link": ""
+    },
+    {
+        "title": "Assessing Rice Phenological Features with Hyperspectral Imaging Insights from Earth Surface Mineral Dust Source Investigation (EMIT)",
+        "authors": [
+            "S Fazli",
+            "W Li",
+            "S Maharjan",
+            "H El Askary"
+        ],
+        "year": 2024,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Deciphering Water Quality and Algal Dynamics in Clear Lake Through Hyperspectral Analysis Using Emit Data",
+        "authors": [
+            "W Li",
+            "S Fazli",
+            "S Maharjan",
+            "H El-Askary"
+        ],
+        "year": 2024,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Evaluating future water availability in Texas through the lens of a data-driven approach leveraged with CMIP6 general circulation models",
+        "authors": [
+            "W Li",
+            "D Li",
+            "H El-Askary",
+            "JB Fisher",
+            "ZN Fang"
+        ],
+        "year": 2024,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Assessing the Compound Threats of Climate Change: Streamflow, Wildfires, and Flood Risk in Melamchi Water Supply Watershed, Nepal",
+        "authors": [
+            "S Maharjan",
+            "W Li",
+            "HM El-Askary"
+        ],
+        "year": 2024,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Towards Sustainable Agriculture in California's Central Valley: A Remote Sensing Analysis of Water Use Efficiency and Crop Data",
+        "authors": [
+            "W Li",
+            "S Fazli",
+            "S Maharjan",
+            "HM El-Askary"
+        ],
+        "year": 2024,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Derna 2023: The Price of Neglected Infrastructure in a Transforming Water Cycle",
+        "authors": [
+            "HM El-Askary",
+            "W Li",
+            "R Thomas"
+        ],
+        "year": 2024,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Water Whiplash in Mediterranean Regions of the World",
+        "authors": [
+            "C Madrigal",
+            "R Bedri",
+            "T Piechota",
+            "W Li",
+            "G Tootle",
+            "H El-Askary"
+        ],
+        "year": 2024,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Assessment and prediction of meteorological drought using machine learning algorithms and climate data",
+        "authors": [
+            "K En-Nagre",
+            "M Aqnouy",
+            "A Ouarka",
+            "SAA Naqvi",
+            "I Bouizrou",
+            "JES El Messari",
+            "..."
+        ],
+        "year": 2024,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Flood Risk Assessment, Social Vulnerability, and Potential Mitigation Actions in California",
+        "authors": [
+            "NG Todorov",
+            "S Fazli",
+            "W Li",
+            "S Perera",
+            "R Thomas",
+            "HM El-Askary",
+            "T Piechota",
+            "..."
+        ],
+        "year": 2023,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Selected Studies in Geotechnics, Geo-informatics and Remote Sensing: Proceedings of the 3rd Conference of the Arabian Journal of Geosciences (CAJG-3)",
+        "authors": [
+            "ZA Ergüler",
+            "R Hadji",
+            "HI Chaminé",
+            "J Rodrigo-Comino",
+            "A Kallel",
+            "B Merkel",
+            "..."
+        ],
+        "year": 2023,
+        "area": "Earth Surface and Interior",
+        "link": ""
+    },
+    {
+        "title": "Analyzing the Varying Displacement Trends at the Grand Ethiopian Renaissance Dam using PSI and SBAS Technology and its Role in the Negotiations Between Ethiopia and Egypt",
+        "authors": [
+            "HM El-Askary",
+            "R Thomas",
+            "W Li",
+            "A Fawzy",
+            "S Mohmed"
+        ],
+        "year": 2023,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Peak snowpack has shifted early, and snowpack season length has decreased for the Western US",
+        "authors": [
+            "S Perera",
+            "W Li",
+            "T Piechota",
+            "JB Fisher",
+            "HM El-Askary"
+        ],
+        "year": 2023,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Results Driven Approach Using Machine Learning and Interferometry to Provide a Holistic Outlook for Groundwater in California",
+        "authors": [
+            "R Thomas",
+            "W Li",
+            "T Piechota",
+            "S Fazli",
+            "N Grisel Todorov",
+            "S Perera",
+            "..."
+        ],
+        "year": 2023,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Cultivating Climate Resilience: Hydrological Shifts and Agricultural Strategies in California's Central Valley",
+        "authors": [
+            "S Fazli",
+            "JB Fisher",
+            "W Li",
+            "R Thomas",
+            "N Grisel Todorov",
+            "S Perera",
+            "..."
+        ],
+        "year": 2023,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "A Novel Hydrological Indicator for Improving Water Management in the Western United States",
+        "authors": [
+            "W Li",
+            "T Piechota",
+            "JB Fisher",
+            "R Bedri",
+            "HM El-Askary"
+        ],
+        "year": 2023,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Monitoring Dam Stability Using PSI and SBAS Analysis",
+        "authors": [
+            "R Thomas",
+            "W Li",
+            "S Fazli",
+            "NG Todorov",
+            "H El-Askary"
+        ],
+        "year": 2023,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Mapping California Rice Using Optical and SAR Data Fusion with Phenological Features in Google Earth Engine",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "DC Struppa"
+        ],
+        "year": 2023,
+        "area": "Lithosphere",
+        "link": ""
+    },
+    {
+        "title": "Selected Studies in Environmental Geosciences and Hydrogeosciences",
+        "authors": [
+            "A Kallel",
+            "M Barbieri",
+            "J Rodrigo-Comino",
+            "HI Chaminé",
+            "B Merkel",
+            "..."
+        ],
+        "year": 2023,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Monitoring Agricultural Water Productivity and its Potential Climatic Driving Forces Over the Nile Delta Between 2009-2022",
+        "authors": [
+            "S Fazli",
+            "R Thomas",
+            "HM El-Askary",
+            "S Perera",
+            "N Todorov"
+        ],
+        "year": 2022,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "The Analysis of the Beach Changes in Two Islands as Major Sea Turtle Nesting Sites in the Northern Arabian Gulf Using Multiple Image Processing Methods",
+        "authors": [
+            "S Perera",
+            "W Li",
+            "M Allali",
+            "HM El-Askary",
+            "RH Maneja",
+            "T Piechota",
+            "D Struppa"
+        ],
+        "year": 2022,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Examining EL NINO-SOUTHERN Oscillation (enso) in AN Ensemble View on the Arab Nations Utilizing Digital Signal Processing from 2010-2020",
+        "authors": [
+            "S Perera",
+            "M Allali",
+            "HM El-Askary",
+            "R Thomas",
+            "N Todorov",
+            "S Fazli"
+        ],
+        "year": 2022,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Identifying Vulnerabilities to the Grand Ethiopian Renaissance Dam using PSI and SBAS analysis",
+        "authors": [
+            "R Thomas",
+            "HM El-Askary",
+            "S Fazli",
+            "W Li",
+            "S Perera",
+            "N Todorov"
+        ],
+        "year": 2022,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Multi-sectoral impact assessment of an extreme African dust episode in the Eastern Mediterranean in March 2018",
+        "authors": [
+            "A Monteiro",
+            "S Basart",
+            "S Kazadzis",
+            "A Votsis",
+            "A Gkikas",
+            "S Vandenbussche",
+            "..."
+        ],
+        "year": 2022,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Deriving Drought Vulnerability Index using Geographically Weighted Principal Component Analysis (GWPCA) and K-Means Clustering for Nile Basin",
+        "authors": [
+            "S Perera",
+            "M Allali",
+            "E Linstead",
+            "H El-Askary"
+        ],
+        "year": 2022,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Titaniferous-Vanadiferous, Magnetite-Ilmenite Mineralization in a Mafic Suite within the Chhotanagpur Gneissic Complex, Bihar, India",
+        "authors": [
+            "A Mohammad",
+            "AK Prasad",
+            "K Wetsah",
+            "M Azad",
+            "V Aryan",
+            "H El-Askary"
+        ],
+        "year": 2022,
+        "area": "Lithosphere",
+        "link": ""
+    },
+    {
+        "title": "Accuracy assessment, comparative performance, and enhancement of public domain digital elevation models (ASTER 30 m, SRTM 30 m, CARTOSAT 30 m, SRTM 90 m, MERIT 90 m, and TanDEM …",
+        "authors": [
+            "K Preety",
+            "AK Prasad",
+            "AK Varma",
+            "H El-Askary"
+        ],
+        "year": 2022,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Snow cover variability and trend over the Hindu Kush Himalayan region using MODIS and SRTM data",
+        "authors": [
+            "N Desinayak",
+            "AK Prasad",
+            "H El-Askary",
+            "M Kafatos",
+            "GR Asrar"
+        ],
+        "year": 2022,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Research Developments in Geotechnics, Geo-Informatics and Remote Sensing",
+        "authors": [
+            "H El-Askary",
+            "AE ZEYNAL",
+            "K MURAT"
+        ],
+        "year": 2022,
+        "area": "Earth Surface and Interior",
+        "link": ""
+    },
+    {
+        "title": "Increased risks of re-identification for patients posed by deep learning-based ECG identification algorithms",
+        "authors": [
+            "A Ghazarian",
+            "J Zheng",
+            "H El-Askary",
+            "H Chu",
+            "G Fu",
+            "C Rakovski"
+        ],
+        "year": 2021,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Assessing the vertical displacement of the grand Ethiopian renaissance dam during its filling using DInSAR technology and its potential acute consequences on the downstream …",
+        "authors": [
+            "H El-Askary",
+            "A Fawzy",
+            "R Thomas",
+            "W Li",
+            "N LaHaye",
+            "E Linstead",
+            "T Piechota",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "High precision machine learning-enabled ECG algorithm for predicting sites of idiopathic ventricular arrhythmia origin",
+        "authors": [
+            "J Zheng",
+            "G Fu",
+            "D Struppa",
+            "I Abudayyeh",
+            "M Yacoub",
+            "H El-Askary",
+            "X Du",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Mediterranean tapeweed Posidonia oceanica (L.) Delile, an endangered seagrass species",
+        "authors": [
+            "LMM Bidak",
+            "SZ Heneidy",
+            "L Wenzhao",
+            "AM Fakhry",
+            "ET El-Kenany",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Marine litter survey at the major sea turtle nesting islands in the Arabian Gulf using in-situ and remote sensing methods",
+        "authors": [
+            "RH Maneja",
+            "R Thomas",
+            "JD Miller",
+            "W Li",
+            "H El-Askary",
+            "AVB Flandez",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Landuse landcover change detection in the Mediterranean Region using a Siamese Neural Network and Image Processing",
+        "authors": [
+            "S Perera",
+            "M Allali",
+            "E Linstead",
+            "H El-Askary"
+        ],
+        "year": 2021,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "A quantitative validation of multi-modal image fusion and segmentation for object detection and tracking",
+        "authors": [
+            "N LaHaye",
+            "MJ Garay",
+            "BD Bue",
+            "H El-Askary",
+            "E Linstead"
+        ],
+        "year": 2021,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Snow cover variability and trend over Hindu Kush Himalayan region using MODIS and SRTM data",
+        "authors": [
+            "N Desinayak",
+            "AK Prasad",
+            "H El-Askary",
+            "M Kafatos",
+            "GR Asrar"
+        ],
+        "year": 2021,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Investigating decadal changes of multiple hydrological products and land-cover changes in the Mediterranean Region for 2009–2018",
+        "authors": [
+            "W Li",
+            "S Perera",
+            "E Linstead",
+            "R Thomas",
+            "H El-Askary",
+            "T Piechota",
+            "D Struppa"
+        ],
+        "year": 2021,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "A high-precision machine learning algorithm to classify left and right outflow tract ventricular tachycardia",
+        "authors": [
+            "J Zheng",
+            "G Fu",
+            "I Abudayyeh",
+            "M Yacoub",
+            "A Chang",
+            "WW Feaster",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "An assessment of the filling process of the Grand Ethiopian Renaissance Dam and its impact on the downstream countries",
+        "authors": [
+            "P Kansara",
+            "W Li",
+            "H El-Askary",
+            "V Lakshmi",
+            "T Piechota",
+            "D Struppa",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Multidecadal analysis of beach loss at the major offshore sea turtle nesting islands in the northern Arabian Gulf",
+        "authors": [
+            "RH Maneja",
+            "JD Miller",
+            "W Li",
+            "R Thomas",
+            "H El-Askary",
+            "S Perera",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Recent Research on Geotechnical Engineering, Remote Sensing, Geophysics and Earthquake Seismology",
+        "authors": [
+            "A Çiner",
+            "ZA Ergüler",
+            "M Bezzeghoud",
+            "M Ustuner",
+            "M Eshagh",
+            "H El-Askary",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Earth Surface and Interior",
+        "link": ""
+    },
+    {
+        "title": "A High-Precision Machine Learning Algorithm to Classify Left and Right Outflow Tract Ventricular Tachycardia",
+        "authors": [
+            "J Zhang",
+            "G Fu",
+            "I Abudayyeh",
+            "M Yacoub",
+            "A Chang",
+            "W Feaster",
+            "..."
+        ],
+        "year": 2021,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "A High Precision Algorithm to Classify Left and Right Outflow Tract Ventricular Tachycardia",
+        "authors": [
+            "J Zheng",
+            "G Fu",
+            "I Abudayyeh",
+            "M Yacoub",
+            "A Chang",
+            "W Feaster",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Applications of Data-Driven Observational Causal Inference in Earth System Sciences Posters",
+        "authors": [
+            "W Li",
+            "HM El-Askary",
+            "E Linstead",
+            "N LaHaye"
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Investigation of the Trends and Model Evaluations of multiple Hydrological Parameters over Global Arid Regions",
+        "authors": [
+            "NG Todorov",
+            "W Li",
+            "HM El-Askary",
+            "T Piechota",
+            "D Struppa"
+        ],
+        "year": 2020,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Progress in Assessing Societal Benefits of Earth Observations Including Applications to Sustainable Development Goals II Posters",
+        "authors": [
+            "F Pearlman",
+            "HM El-Askary",
+            "M Grasso",
+            "CD Shapiro"
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "An assessment of the hydrological trends using synergistic approaches of remote sensing and model evaluations over global arid and semi-arid regions",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "R Thomas",
+            "SP Tiwari",
+            "KP Manikandan",
+            "T Piechota",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Investigation of the trends and model evaluations of multiple hydrological parameters over global arid regions",
+        "authors": [
+            "W Li",
+            "N Todorov",
+            "HM El-Askary",
+            "T Piechota",
+            "D Struppa"
+        ],
+        "year": 2020,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "The study of interactions among clouds, aerosols and dynamics in the earth system using casual inference approaches",
+        "authors": [
+            "W Li",
+            "E Linstead",
+            "N LaHaye",
+            "HM El-Askary"
+        ],
+        "year": 2020,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Characterizing el Niño-southern oscillation effects on the blue Nile yield and the Nile river basin precipitation using empirical mode decomposition",
+        "authors": [
+            "JA Le",
+            "HM El-Askary",
+            "M Allali",
+            "E Sayed",
+            "H Sweliem",
+            "TC Piechota",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Identification and Tracking of Wildfires and Wildfire-Induced Smoke Plumes During FIREX-AQ 2019 using Orbital and Suborbital Instruments.",
+        "authors": [
+            "N LaHaye",
+            "MJ Garay",
+            "H Lee",
+            "E Linstead",
+            "A Goodman",
+            "HM El-Askary",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Knowledge Discovery Framework: Deep Learning Applications for Remote Sensing",
+        "authors": [
+            "M Seeley",
+            "F Civilini",
+            "S Praveen",
+            "N Srishankar",
+            "A Koul",
+            "A Berea",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Investigations of the filling procedure of the Grand Ethiopian Renaissance Dam and its potential impact for the downstream countries using multi-satellite optical and radar imagery",
+        "authors": [
+            "HM El-Askary",
+            "W Li",
+            "R Thomas",
+            "V Lakshmi",
+            "T Piechota",
+            "D Struppa"
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "The analysis of the beach changes in two islands as major sea turtle nesting sites in the northern Arabian Gulf using multiple image processing methods",
+        "authors": [
+            "S Perera",
+            "W Li",
+            "HM El-Askary",
+            "RH Maneja",
+            "T Piechota",
+            "D Struppa"
+        ],
+        "year": 2020,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Investigating Significance of Aerosols in Determining Coronavirus Fatality Rate Among Three European Countries",
+        "authors": [
+            "R Thomas",
+            "W Li",
+            "HM El-Askary",
+            "T Piechota",
+            "D Struppa",
+            "K Abdel Ghaffar"
+        ],
+        "year": 2020,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Characterizing El Niño-Southern Oscillation effects on the Blue Nile yield and the Nile River basin precipitation using empirical mode decomposition.",
+        "authors": [
+            "HM El-Askary",
+            "JA Le",
+            "E Sayed",
+            "H Sweliem",
+            "TC Piechota",
+            "DC Struppa"
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Long-term NDVI and recent vegetation cover profiles of major offshore island nesting sites of sea turtles in Saudi waters of the northern Arabian Gulf",
+        "authors": [
+            "RH Maneja",
+            "JD Miller",
+            "W Li",
+            "H El-Askary",
+            "AVB Flandez",
+            "JJ Dagoy",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Ocean Color Modeling in the Central Red Sea Using Oceanographical Observation and Simulated Parameters",
+        "authors": [
+            "W Li",
+            "SP Tiwari",
+            "KP Manikandan",
+            "H El-Askary"
+        ],
+        "year": 2020,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Forecasting vegetation health in the mena region by predicting vegetation indicators with machine learning models",
+        "authors": [
+            "S Perera",
+            "W Li",
+            "E Linstead",
+            "H El-Askary"
+        ],
+        "year": 2020,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Investigating the significance of aerosols in determining the coronavirus fatality rate among three European Countries",
+        "authors": [
+            "W Li",
+            "R Thomas",
+            "H El-Askary",
+            "T Piechota",
+            "D Struppa",
+            "KA Abdel Ghaffar"
+        ],
+        "year": 2020,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Synergistic use of remote sensing and modeling for estimating net primary productivity in the Red Sea with VGPM, Eppley-VGPM, and CbPM models intercomparison",
+        "authors": [
+            "W Li",
+            "SP Tiwari",
+            "HM El-Askary",
+            "MA Qurban",
+            "V Amiridis",
+            "KP Manikandan",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Earth observation and cloud computing in support of two sustainable development goals for the river nile watershed countries",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "V Lakshmi",
+            "T Piechota",
+            "D Struppa"
+        ],
+        "year": 2020,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Optimal multi-stage arrhythmia classification approach",
+        "authors": [
+            "J Zheng",
+            "H Chu",
+            "D Struppa",
+            "J Zhang",
+            "SM Yacoub",
+            "H El-Askary",
+            "A Chang",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Machine Learning and Data Mining in Aerospace Technology",
+        "authors": [
+            "AE Hassanien",
+            "A Darwish",
+            "H El-Askary"
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Remote Sensing and Modeling of Climate Changes in Egypt",
+        "authors": [
+            "ME Raey",
+            "HE Askary"
+        ],
+        "year": 2020,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Assessment of areas environmentally sensitive to oil spills in the western Arabian Gulf, Saudi Arabia, for planning and undertaking an effective response",
+        "authors": [
+            "SS Sardi",
+            "MA Qurban",
+            "W Li",
+            "KP Kadinjappalli",
+            "PK Manikandan",
+            "MM Hariri",
+            "..."
+        ],
+        "year": 2020,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Addressing SDG7 Through the NextSENSE Showcase",
+        "authors": [
+            "PG Kosmopoulos",
+            "S Kazadzis",
+            "C Kontoes",
+            "P Blanc",
+            "HM El-Askary",
+            "..."
+        ],
+        "year": 2019,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Case studies on using earth observations addressing key environmental challenges along the sustainable development goals",
+        "authors": [
+            "HM El-Askary",
+            "W Li",
+            "S Kazadzis",
+            "PG Kosmopoulos",
+            "D Struppa",
+            "T Piechota",
+            "..."
+        ],
+        "year": 2019,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Using multi-indices approach to quantify mangrove changes over the Western Arabian Gulf along Saudi Arabia coast.",
+        "authors": [
+            "LWZ Li WenZhao",
+            "H El-Askary",
+            "MA Qurban",
+            "LJJ Li JingJing",
+            "..."
+        ],
+        "year": 2019,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Synergistic use of Remote Sensing and Modeling for Estimating Net Primary Productivity in the Red Sea with Models Intercomparison",
+        "authors": [
+            "W Li",
+            "SPP Tiwari",
+            "HM El-Askary",
+            "M Qurban",
+            "V Amiridis",
+            "KP ManiKandan",
+            "..."
+        ],
+        "year": 2019,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Forecast drought in MENA region by predicting vegetation indicators with Machine Learning models",
+        "authors": [
+            "S Perera",
+            "W Li",
+            "HM El-Askary",
+            "E Linstead",
+            "TC Piechota"
+        ],
+        "year": 2019,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "A Generalized Machine Learning Classifier for Spatiotemporal Analysis of Coral Reefs in the Red Sea",
+        "authors": [
+            "J Gapper",
+            "HM El-Askary",
+            "E Linstead",
+            "T Piechota"
+        ],
+        "year": 2019,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Recurrent Neural Networks and the study of Internal Node Activations for the understanding of Greater California Drought and El Nino Interactions",
+        "authors": [
+            "J Le",
+            "HM El-Askary",
+            "M Allai",
+            "TC Piechota",
+            "D Struppa"
+        ],
+        "year": 2019,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Using Unsupervised Deep Learning for Multi-Modal Object Detection and Tracking",
+        "authors": [
+            "N LaHaye",
+            "MJ Garay",
+            "HM El-Askary",
+            "E Linstead"
+        ],
+        "year": 2019,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Satellite-based Estimates of Groundwater Depletion in Basin of Sinai Peninsula, Red Sea, East Coast and Western Desert and Nile Delta in Egypt",
+        "authors": [
+            "J Li",
+            "W Li",
+            "T Piechota",
+            "HM El-Askary"
+        ],
+        "year": 2019,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Assessment of Vegetation Changes in Saudi Arabia Using Harmonic Analysis and ENSO Indices",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "M Qurban",
+            "KP Manikandan",
+            "MHM Ashri",
+            "T Piechota",
+            "..."
+        ],
+        "year": 2019,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Urban health related air quality indicators over the Middle East and North Africa countries using multiple satellites and AERONET data",
+        "authors": [
+            "M El-Nadry",
+            "W Li",
+            "H El-Askary",
+            "MA Awad",
+            "AR Mostafa"
+        ],
+        "year": 2019,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Studying the impact on urban health over the greater delta region in Egypt due to aerosol variability using optical characteristics from satellite observations and ground-based …",
+        "authors": [
+            "W Li",
+            "E Ali",
+            "I Abou El-Magd",
+            "MM Mourad",
+            "H El-Askary"
+        ],
+        "year": 2019,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Review of Climate Research and Funding 1993~ 2017: A Multinomial Logistic Regression Approach",
+        "authors": [
+            "Y Odeyemi",
+            "M Pollind",
+            "R Peeler",
+            "K Nozawa",
+            "D Vesely",
+            "A Page",
+            "..."
+        ],
+        "year": 2019,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Using multi-indices approach to quantify mangrove changes over the Western Arabian Gulf along Saudi Arabia coast",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "MA Qurban",
+            "J Li",
+            "KP ManiKandan",
+            "T Piechota"
+        ],
+        "year": 2019,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Coral reef change detection in remote Pacific Islands using support vector machine classifiers",
+        "authors": [
+            "JJ Gapper",
+            "H El-Askary",
+            "E Linstead",
+            "T Piechota"
+        ],
+        "year": 2019,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Multi-modal object tracking and image fusion with unsupervised deep learning",
+        "authors": [
+            "N LaHaye",
+            "J Ott",
+            "MJ Garay",
+            "HM El-Askary",
+            "E Linstead"
+        ],
+        "year": 2019,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Long-Term Variability of Gauged Precipitation Over California and Its Links to Circulation Patterns",
+        "authors": [
+            "L Rodriguez",
+            "C Rakovski",
+            "M Allali",
+            "H El-Askary"
+        ],
+        "year": 2019,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "On the drying trends over the MENA countries using harmonic analysis of the enhanced vegetation index",
+        "authors": [
+            "W Li",
+            "HM El-Askary",
+            "M Qurban",
+            "M Allali",
+            "KP Manikandan"
+        ],
+        "year": 2019,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Strong interactions indicated between dust aerosols and precipitation related clouds in the Nile Delta",
+        "authors": [
+            "HM El-Askary",
+            "W Li",
+            "M El-Nadry",
+            "M Awad",
+            "AR Mostafa"
+        ],
+        "year": 2019,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Advances in Remote Sensing and Geo Informatics Applications",
+        "authors": [
+            "HM El-Askary",
+            "S Lee",
+            "E Heggy",
+            "B Pradhan"
+        ],
+        "year": 2019,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Advances in remote sensing and geo informatics applications: proceedings of the 1st Springer Conference of the Arabian Journal of Geosciences (CAJG-1), Tunisia 2018",
+        "authors": [
+            "HM El-Askary",
+            "S Lee",
+            "E Heggy",
+            "B Pradhan"
+        ],
+        "year": 2018,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "On the drying trends over Egypt using Harmonic Analysis of the Enhanced Vegetation Index",
+        "authors": [
+            "HM El-Askary",
+            "W Li",
+            "M Allali"
+        ],
+        "year": 2018,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Forecasting dust impact on solar energy in Egypt",
+        "authors": [
+            "PG Kosmopoulos",
+            "S Kazadzis",
+            "HM El-Askary",
+            "MM El-Khayat"
+        ],
+        "year": 2018,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Monitoring Long-term Mangrove Changes in Arabian Gulf Along Saudi Arabia Coast",
+        "authors": [
+            "W Li",
+            "HM El-Askary",
+            "J Li",
+            "MAB Qurban",
+            "KP ManiKandan"
+        ],
+        "year": 2018,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "On the drying trends over Egypt using harmonic analysis of the enhanced vegetation index",
+        "authors": [
+            "W Li",
+            "HM El-Askary",
+            "M Allai"
+        ],
+        "year": 2018,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Mangrove Forest Change Detection along the Coast of the Red Sea",
+        "authors": [
+            "ID Flores",
+            "W Li",
+            "HM El-Askary",
+            "J Li",
+            "MAB Qurban",
+            "KP ManiKandan"
+        ],
+        "year": 2018,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Evaluation of the BSC-DREAM8b regional dust model using the 3D LIVAS-CALIPSO product",
+        "authors": [
+            "D Konsta",
+            "I Binietoglou",
+            "A Gkikas",
+            "S Solomos",
+            "E Marinou",
+            "E Proestakis",
+            "..."
+        ],
+        "year": 2018,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Earth-observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
+        "authors": [
+            "PG Kosmopoulos",
+            "S Kazadzis",
+            "H El-Askary",
+            "M Taylor",
+            "A Gkikas",
+            "..."
+        ],
+        "year": 2018,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Evaluation of spatial generalization characteristics of a robust classifier as applied to coral reef habitats in remote islands of the Pacific Ocean",
+        "authors": [
+            "JJ Gapper",
+            "H El-Askary",
+            "E Linstead",
+            "T Piechota"
+        ],
+        "year": 2018,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Validating the use of MODIS time series for salinity assessment over agricultural soils in California, USA",
+        "authors": [
+            "K Whitney",
+            "E Scudiero",
+            "HM El-Askary",
+            "TH Skaggs",
+            "M Allali",
+            "DL Corwin"
+        ],
+        "year": 2018,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Impacts of aerosols on the retreat of the Sierra Nevada Glaciers in California",
+        "authors": [
+            "H El-Askary",
+            "J Li",
+            "W Li",
+            "T Piechota",
+            "T Ta",
+            "A Jong",
+            "X Zhang",
+            "T Yang"
+        ],
+        "year": 2018,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "An assessment of atmospheric and meteorological factors regulating Red Sea phytoplankton growth",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "MA Qurban",
+            "E Proestakis",
+            "MJ Garay",
+            "OV Kalashnikova",
+            "..."
+        ],
+        "year": 2018,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Characterizing the impact of aerosols on pre-hurricane Sandy",
+        "authors": [
+            "AT Fontenot",
+            "HM El-Askary",
+            "MJ Garay",
+            "JR Campbell",
+            "OV Kalashnikova"
+        ],
+        "year": 2018,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "EO-based solar energy applications into a wider GEOSS driven system through the GEO-CRADLE project in the international scale",
+        "authors": [
+            "P Kosmopoulos",
+            "S Kazadzis",
+            "H El-Askary",
+            "C Kontoes",
+            "I Keramitsoglou",
+            "..."
+        ],
+        "year": 2018,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Snow cover variability over Hindu Kush Himalayan region using MODIS Terra (2000-2017)",
+        "authors": [
+            "N Desinayak",
+            "A Prasad",
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2018,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Toward Generic, Multi-Modal Object Tracking and Image Fusion using Unsupervised Deep Learning",
+        "authors": [
+            "N LaHaye",
+            "J Ott",
+            "MJ Garay",
+            "H El-Askary",
+            "E Linstead"
+        ],
+        "year": 2018,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Investigation of the Impacts of Dust and Climate Change on Ocean Productivity in the Red Sea",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "MA Qurban",
+            "ME Proestakis",
+            "MJ Garay",
+            "..."
+        ],
+        "year": 2018,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Aerosol as Fertilizing Factor over South Central Red Sea and it Effect on Ocean Biogeochemistry",
+        "authors": [
+            "W Li",
+            "HM El-Askary",
+            "KP ManiKandan",
+            "M Qurban",
+            "MJ Garay",
+            "..."
+        ],
+        "year": 2018,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "The solar atlas of Egypt",
+        "authors": [
+            "P Kosmopoulos",
+            "S Kazadzis",
+            "H El-Askary"
+        ],
+        "year": 2018,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Synergistic Use of Remote Sensing and Modeling for the Chlorophyll-a Concentration Anomalies during summer 2015 at South Central Red Sea",
+        "authors": [
+            "W Li",
+            "HM El-Askary",
+            "KP ManiKandan",
+            "M Qurban",
+            "MJ Garay",
+            "..."
+        ],
+        "year": 2017,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Analysis of Remote Sensing Data Reveals the Correlation of Anomalies between Aerosol Optical Depth and Chlorophyll-a Concentrations in the Red Sea Area",
+        "authors": [
+            "J Coria",
+            "J Bonilla III",
+            "W Li",
+            "HM El-Askary",
+            "M Qurban",
+            "MJ Garay",
+            "..."
+        ],
+        "year": 2017,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Remote sensing depth invariant index parameters in shallow benthic habitats for bottom type classification.",
+        "authors": [
+            "J Gapper",
+            "HM El-Askary",
+            "E Linstead"
+        ],
+        "year": 2017,
+        "area": "Biosphere",
+        "link": ""
+    },
+    {
+        "title": "Qualitative Comparative Analysis of MODIS, MISR and AERONET over the Middle East and North Africa",
+        "authors": [
+            "A Farahat",
+            "HM El-Askary",
+            "OV Kalashnikova",
+            "MJ Garay"
+        ],
+        "year": 2017,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "On the Multi-Modal Object Tracking and Image Fusion Using Unsupervised Deep Learning Methodologies",
+        "authors": [
+            "N LaHaye",
+            "J Ott",
+            "MJ Garay",
+            "HM El-Askary",
+            "E Linstead"
+        ],
+        "year": 2017,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Application of Recurrent Neural Networks on El Nino Impact on California Climate",
+        "authors": [
+            "J Le",
+            "HM El-Askary",
+            "M Allai"
+        ],
+        "year": 2017,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Remote sensing observation of annual dust cycles and possible causality of Kawasaki disease outbreaks in Japan",
+        "authors": [
+            "H El-Askary",
+            "N LaHaye",
+            "E Linstead",
+            "WA Sprigg",
+            "M Yacoub"
+        ],
+        "year": 2017,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Article Synergistic Use of Remote Sensing and Modeling to Assess an Anomalously High Chlorophyll-a Event during Summer 2015 in the South Central Red Sea.",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "KP ManiKandan",
+            "MA Qurban",
+            "MJ Garay",
+            "..."
+        ],
+        "year": 2017,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Synergistic Use of Remote Sensing and Modeling to Assess an Anomalously High Chlorophyll-a Event during Summer 2015 in the South Central Red Sea",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "KP Manikandan",
+            "MA Qurban",
+            "MJ Garay",
+            "..."
+        ],
+        "year": 2017,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "ASSESSMENT VULNERABILITY OF THE LOW LAND ZONE SOUTH EAST OF ALEXANDRIA, EGYPT",
+        "authors": [
+            "M El-Hattab",
+            "H El-Askary",
+            "M El-Raey"
+        ],
+        "year": 2017,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Application of recurrent neural networks for drought projections in California",
+        "authors": [
+            "JA Le",
+            "HM El-Askary",
+            "M Allali",
+            "DC Struppa"
+        ],
+        "year": 2017,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Estimation of the solar energy potential in Egypt by developing high resolution solar Atlas and nowcasting service in real time",
+        "authors": [
+            "P Kosmopoulos",
+            "S Kazadzis",
+            "M Taylor",
+            "H El-Askary",
+            "P Raptis",
+            "..."
+        ],
+        "year": 2016,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Statistical Inter-comparison Analysis of MODIS, MISR, and AERONET Over the Middle East and North Africa",
+        "authors": [
+            "A Farahat",
+            "HM El-Askary",
+            "OV Kalashnikova",
+            "MJ Garay"
+        ],
+        "year": 2016,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Analysis of aerosol absorption properties and transport over North Africa and the Middle East using AERONET data",
+        "authors": [
+            "A Farahat",
+            "H El-Askary",
+            "P Adetokunbo",
+            "AT Fuad"
+        ],
+        "year": 2016,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Sea Surface Temperature Rises Shift Migration Patterns Due to Ecosystem Changes",
+        "authors": [
+            "A Skrbic",
+            "H el-Askary"
+        ],
+        "year": 2016,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Aerosols size distribution characteristics and role of precipitation during dust storm formation over Saudi Arabia",
+        "authors": [
+            "A Farahat",
+            "H El-Askary",
+            "AU Dogan"
+        ],
+        "year": 2016,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "The Effects of El Niño on Precipitation in Southern California Climate Divisions: Year 2016 Precipitation Forecast.",
+        "authors": [
+            "N Idris",
+            "LP Cruz",
+            "HM El-Askary"
+        ],
+        "year": 2015,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Long-Range Transport of Dust and Pollution in the Past, Present, and Future III Posters",
+        "authors": [
+            "PK Patra",
+            "I Koren",
+            "RP Singh",
+            "HM El-Askary",
+            "S Gassó",
+            "G Winckler",
+            "..."
+        ],
+        "year": 2015,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Dynamics of snow cover and melt-water lakes over Himalaya and Tibetan Plateau using long term MODIS observations (2000-2015)",
+        "authors": [
+            "N Desinayak",
+            "S Patel",
+            "AK Prasad",
+            "HM El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2015,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Long Term Ground Based Precipitation Data Analysis in California's 7 Climate Divisions: Spatial and Temporal Variability",
+        "authors": [
+            "L Rodriguez",
+            "HM El-Askary",
+            "C Rakovski",
+            "M Allai"
+        ],
+        "year": 2015,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Utilizing Remote Sensing Landsat 7 Data to Measure Changes in Soil Salinity in Central Valley, CA",
+        "authors": [
+            "KL Whitney",
+            "HM El-Askary"
+        ],
+        "year": 2015,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Analysis of the Impact of Major Dust Events on the Aerosols Characteristics over Saudi Arabia",
+        "authors": [
+            "A Farahat",
+            "H El-Askary",
+            "A Al-Shaibani",
+            "MM Hariri"
+        ],
+        "year": 2015,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Research Article Studying Air Pollutants Origin and Associated Meteorological Parameters over Seoul from 2000 to 2009",
+        "authors": [
+            "S Park",
+            "H El-Askary",
+            "I Sabbah",
+            "H Kwak",
+            "AK Prasad",
+            "WK Lee",
+            "M Kafatos"
+        ],
+        "year": 2015,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "How Much of Our Pollution is OUR Pollution?: The Transport of Anthropogenic Aerosols Across the Pacific Ocean from China to the United States",
+        "authors": [
+            "A Jong"
+        ],
+        "year": 2015,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Remote sensing and modeling of atmospheric dust and studying its impact on environment, weather, and climate",
+        "authors": [
+            "H El-Askary",
+            "SK Park",
+            "S Nickovic",
+            "M Chin"
+        ],
+        "year": 2015,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "On the detection and monitoring of the transport of an Asian dust storm using multi-sensor satellite remote sensing",
+        "authors": [
+            "H el-Askary",
+            "SK Park",
+            "MH Ahn",
+            "A Prasad",
+            "M Kafatos"
+        ],
+        "year": 2015,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Studying air pollutants origin and associated meteorological parameters over Seoul from 2000 to 2009",
+        "authors": [
+            "S Park",
+            "H El-Askary",
+            "I Sabbah",
+            "H Kwak",
+            "AK Prasad",
+            "WK Lee",
+            "M Kafatos"
+        ],
+        "year": 2015,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Study of aerosols’ characteristics and dynamics over the Kingdom of Saudi Arabia using a multisensor approach combined with ground observations",
+        "authors": [
+            "A Farahat",
+            "H El-Askary",
+            "A Al-Shaibani"
+        ],
+        "year": 2015,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Change Detection Analysis of Costal Habitat Using Remote Sensing Technologies in the Western Arabian Gulf (Saudi Arabian Coast) over a Thirty-Year Period.",
+        "authors": [
+            "N Idris",
+            "SH Johnson",
+            "HM El-Askary",
+            "MAB Qurban"
+        ],
+        "year": 2014,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Tracking the Effect of Algal Mats on Coral Bleaching Using Remote Sensing",
+        "authors": [
+            "SH Johnson",
+            "N Idris",
+            "HM El-Askary",
+            "MAB Qurban"
+        ],
+        "year": 2014,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Integrating Airborne Dust Forecasting and Remote Sensing into Air Quality and Public Health Services Posters",
+        "authors": [
+            "HM El-Askary",
+            "S Nickovic",
+            "JC Luvall",
+            "WA Sprigg"
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Potential Impacts of Saharan Dust on the African Air Quality",
+        "authors": [
+            "CM Ichoku",
+            "M Petrenko",
+            "HM El-Askary",
+            "J Wang",
+            "Z Yang",
+            "Y Yue"
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Coral Reef Habitat Change Detection Using Landsats 5, 7 and 8: A Case Study in the Red Sea (Hurghada, Egypt)",
+        "authors": [
+            "J Li",
+            "HM El-Askary",
+            "SHA El-Mawla",
+            "MM El-Hattab",
+            "M El-Raey"
+        ],
+        "year": 2014,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Analysis of Aerosols Climatology over Saudi Provinces Based on Satellites and Ground Stations Data",
+        "authors": [
+            "A Farahat",
+            "HM El-Askary",
+            "A Al-Shaibani"
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "The Influence of Atmospheric Aerosols on Air Quality Status of the Egyptian Nile Delta",
+        "authors": [
+            "HM El-Askary",
+            "A Zakey"
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Application of the Savitzky-Golay filter to land cover classification using temporal MODIS vegetation indices.",
+        "authors": [
+            "KSR Kim SoRa",
+            "AK Prasad",
+            "H El-Askary",
+            "LWK Lee WooKyun",
+            "..."
+        ],
+        "year": 2014,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Regional dust storm modeling for health services: the case of valley fever",
+        "authors": [
+            "WA Sprigg",
+            "S Nickovic",
+            "JN Galgiani",
+            "G Pejanovic",
+            "S Petkovic",
+            "..."
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Hurricane sandy and Saharan dust",
+        "authors": [
+            "AT Fontenot",
+            "HM El-Askary",
+            "WKM Lau"
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Application of the Savitzky-Golay filter to land cover classification using temporal MODIS vegetation indices",
+        "authors": [
+            "SR Kim",
+            "AK Prasad",
+            "H El-Askary",
+            "WK Lee",
+            "DA Kwak",
+            "SH Lee",
+            "M Kafatos"
+        ],
+        "year": 2014,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Aerosols and water vapor dynamics over the Kingdom of Saudi Arabia",
+        "authors": [
+            "A Farahat",
+            "H El-Askary",
+            "A Al-Shaibani",
+            "U Dogan"
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Numerical simulation of\" an American haboob\"",
+        "authors": [
+            "A Vukovic",
+            "M Vujadinovic",
+            "G Pejanovic",
+            "J Andric",
+            "MR Kumjian",
+            "..."
+        ],
+        "year": 2014,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Change detection of coral reef habitat using Landsat-5 TM, Landsat 7 ETM+ and Landsat 8 OLI data in the Red Sea (Hurghada, Egypt)",
+        "authors": [
+            "H El-Askary",
+            "SH Abd El-Mawla",
+            "J Li",
+            "MM El-Hattab",
+            "M El-Raey"
+        ],
+        "year": 2014,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "How the Presence of Plastic in the North Pacific Gyre Affects the Growth of Thalassiosira through Remote Sensing and Laboratory Replication",
+        "authors": [
+            "J Brennan",
+            "H el-Askary"
+        ],
+        "year": 2014,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Aerosols, Hurricanes, and their Interactions: A case study of hurricane sandy",
+        "authors": [
+            "A Fontenot",
+            "H el-Askary",
+            "W Lau"
+        ],
+        "year": 2014,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Knowlege Byte: What is El Niño",
+        "authors": [
+            "H el-Askary"
+        ],
+        "year": 2014,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "A Trend Analysis of Aerosol Related Parameters and their Relation to Precipitation Variability in Arizona",
+        "authors": [
+            "K Rasmussen",
+            "H El-Askary"
+        ],
+        "year": 2014,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Long Term Ground Based Precipitation Data Analysis: Spatial and Temporal Variability",
+        "authors": [
+            "L Rodriguez",
+            "CS Rakovski",
+            "H el-Askary",
+            "M Allali"
+        ],
+        "year": 2014,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Effects of Ocean Acidification on Chlorophyll Content",
+        "authors": [
+            "C Del Fierro",
+            "R Lloyd",
+            "H el-Askary"
+        ],
+        "year": 2014,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Monitoring Troposphere Carbon Dioxide Spatial and Temporal Distribution Changes over China",
+        "authors": [
+            "Y Jiang",
+            "HM El-Askary"
+        ],
+        "year": 2013,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Volcanic Aerosols and its affects on Land Surface Temperature",
+        "authors": [
+            "TN Ta",
+            "HM El-Askary"
+        ],
+        "year": 2013,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "On the Varying Scales of Environmental Risks and the Associated Health Impacts in the Southwest United States",
+        "authors": [
+            "J Pineda",
+            "HM El-Askary",
+            "WA Sprigg"
+        ],
+        "year": 2013,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Mapping the Progression of Phytophthora Ramorum",
+        "authors": [
+            "T Banh",
+            "J Li",
+            "HM El-Askary"
+        ],
+        "year": 2013,
+        "area": "Lithosphere",
+        "link": ""
+    },
+    {
+        "title": "Analysis of Seasonal Snow Cover Changes in the Himalayan Region and the Associated Temperature Variability",
+        "authors": [
+            "M Sun",
+            "HM El-Askary"
+        ],
+        "year": 2013,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Annual patterns of atmospheric pollutions and episodes over Cairo Egypt",
+        "authors": [
+            "Y Aboel Fetouh",
+            "H El Askary",
+            "M El Raey",
+            "M Allali",
+            "WA Sprigg",
+            "M Kafatos"
+        ],
+        "year": 2013,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Stakeholders",
+        "authors": [
+            "MD Agnew",
+            "CM Goodess",
+            "D Hemming",
+            "C Giannakopoulos",
+            "M Bindi",
+            "..."
+        ],
+        "year": 2013,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Physical and socio-economic indicators",
+        "authors": [
+            "MD Agnew",
+            "CM Goodess",
+            "D Hemming",
+            "C Giannakopoulos",
+            "SB Salem",
+            "..."
+        ],
+        "year": 2013,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Climate impact assessments",
+        "authors": [
+            "D Hemming",
+            "MD Agnew",
+            "CM Goodess",
+            "C Giannakopoulos",
+            "SB Salem",
+            "..."
+        ],
+        "year": 2013,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Synthesis and the Assessment of Adaptation Measures",
+        "authors": [
+            "CM Goodess",
+            "MD Agnew",
+            "D Hemming",
+            "C Giannakopoulos",
+            "M Bindi",
+            "..."
+        ],
+        "year": 2013,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Integration of the climate impact assessments with future projections",
+        "authors": [
+            "CM Goodess",
+            "MD Agnew",
+            "C Giannakopoulos",
+            "D Hemming",
+            "SB Salem",
+            "..."
+        ],
+        "year": 2013,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "On the dust long range transport contribution to the dynamics of the biomass burning, and black cloud formation over the Nile Delta",
+        "authors": [
+            "HM El-Askary",
+            "AK Prasad",
+            "HS Marey",
+            "M El-Raey",
+            "GR Asrar",
+            "M Kafatos"
+        ],
+        "year": 2012,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Climate change impacts utilizing regional models for agriculture, hydrology and natural ecosystems",
+        "authors": [
+            "M Kafatos",
+            "GR Asrar",
+            "HM El-Askary",
+            "N Hatzopoulos",
+            "J Kim",
+            "S Kim",
+            "..."
+        ],
+        "year": 2012,
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Impact of the Gulf of California SST on simulating precipitation and crop productivity in the Southwestern United States",
+        "authors": [
+            "S Kim",
+            "J Kim",
+            "AK Prasad",
+            "DH Stack",
+            "HM El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2012,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "High-resolution, regional-scale crop yield simulations for the Southwestern United States",
+        "authors": [
+            "DH Stack",
+            "M Kafatos",
+            "D Medvigy",
+            "HM El-Askary",
+            "N Hatzopoulos",
+            "J Kim",
+            "..."
+        ],
+        "year": 2012,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "On the temporal and spatial variability of air pollutants characteristic and origin using ground-based and satellite observations over Seoul",
+        "authors": [
+            "S Park",
+            "HM El-Askary",
+            "IS Sabbah",
+            "AK Prasad",
+            "H Kwak",
+            "W Lee",
+            "M Kafatos"
+        ],
+        "year": 2012,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Computational methods for climate data",
+        "authors": [
+            "H El‐Askary",
+            "M Allali",
+            "C Rakovski",
+            "A Prasad",
+            "M Kafatos",
+            "D Struppa"
+        ],
+        "year": 2012,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Studying and analyzing the formation and dynamics of the black cloud over Cairo, Egypt, using a multi sensor approach",
+        "authors": [
+            "HM El-Askary",
+            "AK Prasad",
+            "HM Marey",
+            "ME El-Raey",
+            "GR Asrar",
+            "M Kafatos"
+        ],
+        "year": 2012,
+        "area": "Weather and Atmospheric Dynamics",
+        "link": ""
+    },
+    {
+        "title": "Research Article Synergistic Use of Remote Sensing and Modeling for Tracing Dust Storms in the Mediterranean",
+        "authors": [
+            "DG Kaskaoutis",
+            "AK Prasad",
+            "PG Kosmopoulos",
+            "PR Sinha",
+            "SK Kharol",
+            "..."
+        ],
+        "year": 2012,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Airborne dust models: a tool in environmental health tracking; final report",
+        "authors": [
+            "WA Sprigg",
+            "JN Galgiani",
+            "S Nickovic",
+            "G Pejanovic",
+            "M Vujadinovic",
+            "..."
+        ],
+        "year": 2012,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Synergistic use of remote sensing and modeling for tracing dust storms in the Mediterranean",
+        "authors": [
+            "DG Kaskaoutis",
+            "AK Prasad",
+            "PG Kosmopoulos",
+            "PR Sinha",
+            "SK Kharol",
+            "..."
+        ],
+        "year": 2012,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Impact of dust storms and anthropogenic aerosols on the snow cover and glaciers of the Indo-Gangetic plains and Himalaya region",
+        "authors": [
+            "AK Prasad",
+            "HM El-Askary",
+            "GR Asrar",
+            "M Kafatos",
+            "A Jaswal"
+        ],
+        "year": 2011,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Assessing Impacts of Climate Variability and Change on the Agro-ecosystems in California and Southwestern United States",
+        "authors": [
+            "M Kafatos",
+            "GR Asrar",
+            "HM El-Askary",
+            "N Hatzopoulos",
+            "K Hayhoe",
+            "J Kim",
+            "..."
+        ],
+        "year": 2011,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Analysis of carbon monoxide levels over Nile Delta, Egypt, using MOPITT satellite data",
+        "authors": [
+            "HS Marey",
+            "JC Gille",
+            "HM El-Askary",
+            "EA Shalaby",
+            "ME El-Raey"
+        ],
+        "year": 2011,
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Studying Air Quality Dynamics using A Linear Genetic Programming Approach over Remotely Sensed Atmospheric Parameters: case study (Cairo, Egypt)",
+        "authors": [
+            "HM El-Askary",
+            "W Sheta",
+            "AK Prasad",
+            "H Ali",
+            "A El-Desouki",
+            "M Kafatos"
+        ],
+        "year": 2011,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Aerosol climatology over Nile Delta based on MODIS, MISR and OMI satellite data",
+        "authors": [
+            "HS Marey",
+            "JC Gille",
+            "HM El-Askary",
+            "EA Shalaby",
+            "ME El-Raey"
+        ],
+        "year": 2011,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Melting of major glaciers in Himalayas: role of desert dust and anthropogenic aerosols",
+        "authors": [
+            "AK Prasad",
+            "HM Elaskary",
+            "GR Asrar",
+            "M Kafatos",
+            "A Jaswal"
+        ],
+        "year": 2011,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Climatic drivers of potential hazards in Mediterranean coasts",
+        "authors": [
+            "A Sánchez-Arcilla",
+            "C Mösso",
+            "JP Sierra",
+            "M Mestres",
+            "A Harzallah",
+            "..."
+        ],
+        "year": 2011,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Analyzing black cloud dynamics over Cairo, Nile Delta region and Alexandria using aerosols and water vapor data",
+        "authors": [
+            "H El-Askary",
+            "AK Prasad",
+            "G Kallos",
+            "M El-Raey",
+            "M Kafatos"
+        ],
+        "year": 2011,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Three-year ground based measurements of aerosol optical depth over the Eastern Mediterranean: the urban environment of Athens",
+        "authors": [
+            "E Gerasopoulos",
+            "V Amiridis",
+            "S Kazadzis",
+            "P Kokkalis",
+            "K Eleftheratos",
+            "..."
+        ],
+        "year": 2011,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Black cloud and transport of anthropogenic pollution across the Mediterranean Sea over Nile Delta region in Egypt during Fall season",
+        "authors": [
+            "HM El-Askary",
+            "AK Prasad",
+            "M Kafatos"
+        ],
+        "year": 2010,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "An Integrated Modeling and Observing System with Near Real-Time Applications",
+        "authors": [
+            "M Kafatos",
+            "HM El-Askary",
+            "G Galanis",
+            "N Hatzopoulos",
+            "X Liu",
+            "DP Ouzounov",
+            "..."
+        ],
+        "year": 2010,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Regional climate change modeling and observations for Korea",
+        "authors": [
+            "W Lee",
+            "S Yoo",
+            "S Choi",
+            "H Kwak",
+            "S Park",
+            "M Kafatos",
+            "HM El-Askary",
+            "..."
+        ],
+        "year": 2010,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "An Integrated Modeling and Observing System for Hazards and Regional Climate Simulations",
+        "authors": [
+            "AK Prasad",
+            "P Chan",
+            "HM El-Askary",
+            "N Hatzopoulos",
+            "J Kim",
+            "X Liu",
+            "..."
+        ],
+        "year": 2010,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Study of the formation of the “black cloud” and its dynamics over Cairo, Egypt, using MODIS and MISR sensors",
+        "authors": [
+            "HS Marey",
+            "JC Gille",
+            "HM El‐Askary",
+            "EA Shalaby",
+            "ME El‐Raey"
+        ],
+        "year": 2010,
+        "area": "Weather and Atmospheric Dynamics",
+        "link": ""
+    },
+    {
+        "title": "Three-year ground based measurements of Aerosol Optical Depth over the Eastern Mediterranean: the urban environment of Athens",
+        "authors": [
+            "E Gerasopoulos",
+            "V Amiridis",
+            "S Kazadzis",
+            "P Kokkalis",
+            "K Eleftheratos",
+            "..."
+        ],
+        "year": 2010,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Implications of high altitude desert dust transport from Western Sahara to Nile Delta during biomass burning season",
+        "authors": [
+            "AK Prasad",
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2010,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Melting of major Glaciers in the western Himalayas: evidence of climatic changes from long term MSU derived tropospheric temperature trend (1979–2008)",
+        "authors": [
+            "AK Prasad",
+            "KHS Yang",
+            "HM El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2009,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Impact of sea level rise on the low land area South East of Alexandria, Egypt",
+        "authors": [
+            "HM El-Askary",
+            "M El-Hattab",
+            "M El-Raey",
+            "M Kafatos"
+        ],
+        "year": 2009,
+        "area": "Hydrosphere",
+        "link": ""
+    },
+    {
+        "title": "Long Term MSU Tropospheric and Ground Temperature Trends (1979-2008) Over Africa",
+        "authors": [
+            "AK Prasad",
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2009,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Transport of dust and anthropogenic aerosols across Alexandria, Egypt",
+        "authors": [
+            "H El-Askary",
+            "R Farouk",
+            "C Ichoku",
+            "M Kafatos"
+        ],
+        "year": 2009,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Dust storm and black cloud influence on aerosol optical properties over Cairo and the Greater Delta region, Egypt",
+        "authors": [
+            "H El‐Askary",
+            "M Kafatos"
+        ],
+        "year": 2008,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Natural and anthropogenic aerosol-related hazards affecting megacities",
+        "authors": [
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2008,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Efficient hierarchical-PCA dimension reduction for hyperspectral imagery",
+        "authors": [
+            "A Agarwal",
+            "T El-Ghazawi",
+            "H El-Askary",
+            "J Le-Moigne"
+        ],
+        "year": 2007,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Hierarchical PCA techniques for fusing spatial and spectral observations with application to MISR and monitoring dust storms",
+        "authors": [
+            "A Agarwal",
+            "HM El-Askary",
+            "T El-Ghazawi",
+            "M Kafatos",
+            "J Le-Moigne"
+        ],
+        "year": 2007,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Investigation of thermal inversions as a major contributer to the Black cloud episodes over Cairo",
+        "authors": [
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2007,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Efficient PCA fusion techniques for MISR multi-angle observations with applications to monitoring dust storms",
+        "authors": [
+            "A Agarwal",
+            "H el-Askary",
+            "T El-Ghawazi",
+            "M Kafatos",
+            "J Le-Moigne"
+        ],
+        "year": 2007,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Potential for Dust Storm Detection Through Aerosol Radiative Forcing Related to Atmospheric Parameters",
+        "authors": [
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2006,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Air pollution impact on aerosol variability over mega cities using remote sensing technology: case study, Cairo, Egypt",
+        "authors": [
+            "H El-Askary"
+        ],
+        "year": 2006,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Dust storms detection over the Indo-Gangetic basin using multi sensor data",
+        "authors": [
+            "H El-Askary",
+            "R Gautam",
+            "RP Singh",
+            "M Kafatos"
+        ],
+        "year": 2006,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Natural and Anthropogenic Aerosols in the World's Megacities and Climate Impacts",
+        "authors": [
+            "M Kafatos",
+            "R Singh",
+            "H El-Askary",
+            "J Qu"
+        ],
+        "year": 2005,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Enhancing dust storm detection using PCA based data fusion.",
+        "authors": [
+            "H El-Askary",
+            "A Agarwal",
+            "T El-Ghazawi",
+            "M Kafatos",
+            "J Le-Moigne"
+        ],
+        "year": 2005,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Remote sensing of dust storms over the Indo-Gangetic basin",
+        "authors": [
+            "H El-Askary",
+            "R Gautam",
+            "M Kafatos"
+        ],
+        "year": 2004,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "ENSO impact on Precipitation Variability Over the Virginia and Mid-Atlantic",
+        "authors": [
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": 2004,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Mapping of dust storms over the Indo-Gangetic Basin using multi sensor data",
+        "authors": [
+            "H El-Askary",
+            "R Gautam",
+            "R Singh",
+            "M Kafatos"
+        ],
+        "year": 2004,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Regional monitoring of environmental physics climate related anomalies",
+        "authors": [
+            "H El-Askary"
+        ],
+        "year": 2004,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Potential for early warning of dust storms",
+        "authors": [
+            "M Kafatos",
+            "H El-Askary",
+            "G Kallos"
+        ],
+        "year": 2004,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Rain gauge derived precipitation variability over Virginia and its relation with the El Nino southern oscillation",
+        "authors": [
+            "H el-Askary",
+            "S Sarkar",
+            "L Chiu",
+            "M Kafatos",
+            "T El-Ghazawi"
+        ],
+        "year": 2004,
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "A multisensor approach to dust storm monitoring over the Nile Delta",
+        "authors": [
+            "HM El-Askary",
+            "S Sarkar",
+            "M Kafatos",
+            "TA El-Ghazawi"
+        ],
+        "year": 2003,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Introducing new approaches for dust storms detection using remote sensing technology",
+        "authors": [
+            "H El-Askary",
+            "M Kafatos",
+            "X Liu",
+            "T El-Ghazawi"
+        ],
+        "year": 2003,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Remote sensing and GIS for regional environmental applications",
+        "authors": [
+            "M Kafatos",
+            "H El-Askary",
+            "LS Chiu",
+            "RB Gomez",
+            "M Hegazy",
+            "JM Kinser",
+            "X Liu",
+            "..."
+        ],
+        "year": 2003,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Environmental monitoring of dust storms over the Nile Delta, Egypt using MODIS satellite data",
+        "authors": [
+            "H El-Askary",
+            "M Kafatos",
+            "M Hegazy"
+        ],
+        "year": 2002,
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "Mohamed E El Raey",
+        "authors": [
+            "SM Nasr",
+            "H El-Askary",
+            "M El-Hattab",
+            "A Harzallah"
+        ],
+        "year": 1965,
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Hyperspectral-Thermal Remote Sensing Reveals Differential Coupling of Canopy Nitrogen and Water Use in Crops",
+        "authors": [
+            "S Fazli",
+            "S Maharjan",
+            "W Li",
+            "JB Fisher",
+            "R Thomas",
+            "F Romero",
+            "G Shirkey",
+            "..."
+        ],
+        "year": "",
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Enhancing Water Scarcity Resilience in Egypt Using Machine Learning for Phenological Crop Mapping and Water Use Efficiency Analysis",
+        "authors": [
+            "S Maharjan",
+            "W Li",
+            "S Fazli",
+            "A Tariq",
+            "R Thomas",
+            "C Rakovski",
+            "HM El-Askary"
+        ],
+        "year": "",
+        "area": "Water and Energy Cycle",
+        "link": ""
+    },
+    {
+        "title": "Climate Risk Management",
+        "authors": [
+            "K En-Nagre",
+            "M Aqnouy",
+            "A Ouarka",
+            "SAA Naqvi",
+            "I Bouizrou",
+            "JES El Messari",
+            "..."
+        ],
+        "year": "",
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "Selected Studies in Geotechnics, Geo-informatics and Remote Sensing",
+        "authors": [
+            "ZA Ergüler",
+            "R Hadji",
+            "HI Chaminé",
+            "J Rodrigo-Comino",
+            "A Kallel",
+            "B Merkel",
+            "..."
+        ],
+        "year": "",
+        "area": "Earth Surface and Interior",
+        "link": ""
+    },
+    {
+        "title": "Mediterranean Basin Case Study",
+        "authors": [
+            "H El-Askary",
+            "W Li"
+        ],
+        "year": "",
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Applications of Data-driven Observational Causal Inference in Earth System Sciences",
+        "authors": [
+            "W Li",
+            "HM El-Askary",
+            "E Linstead",
+            "N LaHaye"
+        ],
+        "year": "",
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Environmental investigation on Lake Maryut, west of Alexandria, Egypt: Geochemical, Geophysical and Remote Sensing Studies",
+        "authors": [
+            "H El-Askary",
+            "HM El-Sayed",
+            "TA Fattah",
+            "FH Mohamed",
+            "AR Mostafa"
+        ],
+        "year": "",
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Harmonic and Correlative Analysis of the Relationship Among Precipitation Vegetation and Soil Moisture in the MENA Region",
+        "authors": [
+            "W Li",
+            "H El-Askary",
+            "J Li",
+            "M Qurban",
+            "M Allali",
+            "KP Manikandan",
+            "T Piechota"
+        ],
+        "year": "",
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Multi-sensor and Modeling Assessment of Vegetation and Precipitation Changes Influenced by ENSO Events in Saudi Arabia",
+        "authors": [
+            "H El-Askary",
+            "W Li",
+            "M Qurban",
+            "MHM Ashri",
+            "T Piechota"
+        ],
+        "year": "",
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Mangrove Forest Change Detection in the coast of the Red Sea from 2000 to 2017",
+        "authors": [
+            "D Flores Iris",
+            "W Li",
+            "H El-Askary"
+        ],
+        "year": "",
+        "area": "Climate Variability and Change",
+        "link": ""
+    },
+    {
+        "title": "An assessment to relationship between between AOD and Chlorophyll-a anomalies",
+        "authors": [
+            "J Coria",
+            "J Bonilla",
+            "W Li",
+            "H El-Askary"
+        ],
+        "year": "",
+        "area": "Carbon Cycle and Ecosystems",
+        "link": ""
+    },
+    {
+        "title": "Special Contribution: Open Data for Global Multimodal Land Use Classification: Outcome of the 2017 IEEE GRSS Data Fusion Contest.... N. Yokoya, P. Ghamisi, J. Xia, S. Sukhanov …",
+        "authors": [
+            "AT Fontenot",
+            "HM El-Askary",
+            "MJ Garay",
+            "JR Campbell",
+            "OV Kalashnikova"
+        ],
+        "year": "",
+        "area": "Earth Surface and Interior",
+        "link": ""
+    },
+    {
+        "title": "On the Influence of dust stroms, anthropogenic pollution and biomass burning on air quality over the Nile Delta during 2000-2010",
+        "authors": [
+            "HM El-Askary"
+        ],
+        "year": "",
+        "area": "Atmospheric Composition",
+        "link": ""
+    },
+    {
+        "title": "MEDITERRANEAN REGION",
+        "authors": [
+            "M Kafatos",
+            "AK Prasad",
+            "HM El-Askary",
+            "DG Kaskaoutis"
+        ],
+        "year": "",
+        "area": "Uncategorized",
+        "link": ""
+    },
+    {
+        "title": "Optical Remote Sensing Technologies for Dust Storms Monitoring and Detection",
+        "authors": [
+            "H El-Askary",
+            "M Kafatos"
+        ],
+        "year": "",
+        "area": "Atmospheric Composition",
+        "link": ""
+    }
+]
