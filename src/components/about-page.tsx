@@ -26,7 +26,8 @@ const labMembers = {
       degree: "Ph.D.",
       company: "Senior Research Associate, Chapman University",
       social: {
-        linkedin: "https://www.linkedin.com/in/wenzhao-li-8221b565/"
+        linkedin: "https://www.linkedin.com/in/wenzhao-li-8221b565/",
+        scholar: "https://scholar.google.com/citations?user=EOlLvxwAAAAJ&hl=en"
       }
     },
     {
