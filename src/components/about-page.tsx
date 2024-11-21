@@ -99,6 +99,7 @@ const labMembers = {
       degree: "B.S. in Electrical Engineering (In Progress)",
       company: "Chapman University",
       social: {
+        linkedin: "https://www.linkedin.com/in/eli-duran-973979293/"
       }
     },
     {

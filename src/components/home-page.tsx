@@ -55,17 +55,7 @@ const pageConfig = {
 			"https://chapmanearthsystemlab.netlify.app/static/media/profile.213271462b09b8b67a0c.jpg",
 		bio: "Professor El-Askary is contributing uniquely to world-class research by combining his knowledge of computational sciences and remote sensing technologies together with his keen interest in applying these technologies to address the environmental challenges facing citizens, governments, natural resources managers, and decision-makers.",
 	},
-	researchAreas: [
-		"Atmospheric Composition",
-		"Earth Surface and Interior",
-		"Water and Energy Cycle",
-		"Weather and Atmospheric Dynamics",
-		"Carbon Cycle and Ecosystems",
-		"Climate Variability and Change",
-		"Hydrosphere",
-		"Lithosphere",
-		"Biosphere",
-	],
+	researchAreas: [...new Set(researchProjects.map(project => project.area))],
 	contact: {
 		email: "contact@labresearch.com",
 		phone: "+1 (123) 456-7890",
@@ -147,11 +137,13 @@ function ResearchAreas({ areas }) {
 			<h2 className="text-4xl font-bold mb-6 text-center">Research Areas</h2>
 			<div className="grid grid-cols-1 md:grid-cols-2 gap-4">
 				{areas.map((area, index) => (
-					<Card key={index}>
-						<CardContent className="flex items-center justify-center h-24 bg-[#a40033] rounded-md">
-							<h3 className="text-2xl text-white font-semibold">{area}</h3>
-						</CardContent>
-					</Card>
+					<Link href={`/research?area=${encodeURIComponent(area)}`} key={index}>
+						<Card className="transition-transform hover:scale-105">
+							<CardContent className="flex items-center justify-center h-24 bg-[#a40033] rounded-md">
+								<h3 className="text-2xl text-white font-semibold">{area}</h3>
+							</CardContent>
+						</Card>
+					</Link>
 				))}
 			</div>
 		</div>
@@ -208,3 +200,6 @@ export function HomePageComponent() {
 }
 
 import { Footer } from "./footer";
+import Link from "next/dist/client/link";
+import researchProjects from '@/data/essdsl_papers.json';
+

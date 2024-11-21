@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Navbar } from './navbar'
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog"
@@ -23,7 +23,7 @@ function ResearchCard({ project, onClick }) {
         <div className="flex justify-between items-center mb-4">
           <Badge className='bg-[#a40033]'>{project.area}</Badge>
           <span className="text-sm text-muted-foreground">Published: {project.year}</span>
-          </div>
+        </div>
         <div className="flex justify-between items-center">
           <Button variant="outline" size="sm" onClick={() => onClick(project)}>
             More Details
@@ -44,6 +44,27 @@ export function ResearchPageComponent() {
   const [areaFilter, setAreaFilter] = useState("all")
   const [sortOption, setSortOption] = useState("newest")
   const [searchTerm, setSearchTerm] = useState("")
+
+  // Move URL parameter handling to useEffect
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const areaParam = params.get('area');
+    if (areaParam) {
+      setAreaFilter(areaParam);
+    }
+  }, []);
+
+  // Update URL when filter changes
+  const handleAreaFilter = (value) => {
+    setAreaFilter(value);
+    const url = new URL(window.location.href);
+    if (value === "all") {
+      url.searchParams.delete('area');
+    } else {
+      url.searchParams.set('area', value);
+    }
+    window.history.pushState({}, '', url);
+  };
 
   // Get unique areas from the JSON data
   const areas = [...new Set(researchProjects.map(project => project.area))]
@@ -81,27 +102,27 @@ export function ResearchPageComponent() {
             className="flex h-9 w-full md:w-[280px] rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm transition-colors placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
           />
           <div className="flex gap-4 flex-1 justify-end">
-            <Select value={areaFilter} onValueChange={setAreaFilter}>
-            <SelectTrigger className="w-[180px]">
-              <SelectValue placeholder="Research Area" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="all">All Areas</SelectItem>
-              {areas.map(area => (
-                <SelectItem key={area} value={area}>{area}</SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
+            <Select value={areaFilter} onValueChange={handleAreaFilter}>
+              <SelectTrigger className="w-[180px]">
+                <SelectValue placeholder="Research Area" />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="all">All Areas</SelectItem>
+                {areas.map(area => (
+                  <SelectItem key={area} value={area}>{area}</SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
 
             <Select value={sortOption} onValueChange={setSortOption}>
-            <SelectTrigger className="w-[180px]">
-              <SelectValue placeholder="Sort by" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="newest">Newest First</SelectItem>
-              <SelectItem value="oldest">Oldest First</SelectItem>
-            </SelectContent>
-          </Select>
+              <SelectTrigger className="w-[180px]">
+                <SelectValue placeholder="Sort by" />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="newest">Newest First</SelectItem>
+                <SelectItem value="oldest">Oldest First</SelectItem>
+              </SelectContent>
+            </Select>
           </div>
         </div>
 
