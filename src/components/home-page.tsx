@@ -57,9 +57,9 @@ const pageConfig = {
 	},
 	researchAreas: [...new Set(researchProjects.map(project => project.area))],
 	contact: {
-		email: "contact@labresearch.com",
+		email: "contact@chapman.edu",
 		phone: "+1 (123) 456-7890",
-		address: "Keck 317, 1 University Dr, Orange, CA 92866",
+		address: "Keck 368, 1 University Dr, Orange, CA 92866",
 	},
 };
 function CarouselSpacing({ images }) {
